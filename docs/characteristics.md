@@ -16,7 +16,7 @@ Therefore, it takes 39 ticks to build a Battery by yourself.
 
 The time it takes to mine one item is partially dependent on the hardness of an item. Sand is the least hardest, while Thorium is the hardest. 
 
-[needs correction] For example, mining Copper with your Mining Laser gets you copper much faster than when mining Thorium. That is because Thorium is harder than Copper. 
+For example, mining Copper with your Mining Laser gets you copper much faster than when mining Thorium, as Thorium has to high of a hardness to mine with just your Mining Laser. Use the various Drills (such as the Laser Drill) to mine harder materials. Better drills mine lower-hardness resources faster.
 
 ## Radioactivity [Items]
 
@@ -26,7 +26,7 @@ Radioactivity is the potency of the material in nuclear-based blocks like the RT
 
 As it suggests, it is the measure of flammability of an item or liquid. It is also the speed at which it burns and the speed at which it spreads across blocks that are made of it, and enemies which are hit by it as a projectile. 
 
-For example, Plastanium[![Plastanium](./images/item-plastanium-small.png)](./items/plastanium.md) burns slower than coal[![Coal](./images/item-coal-small.png)](./items/coal.md), which burns much slower than Pyratite[![Pyratite](./images/item-pyratite-small.png)](./items/pyratite.md). Furthermore, when Pyratite is used as ammo, it will burn enemies faster and stronger than Blast Compound[![Blast Compound](./images/item-blast-compound-small.png)](./items/blast-compound.md). When Lava[![Slag](./images/liquid-slag-small.png)](./liquids/slag.md) is used as an ammo in the Wave, it will burn enemies unlike Cryofluid[![Cryofluid](./images/liquid-cryofluid-small.png)](./liquids/cryofluid.md) or Oil[![Oil](./images/liquid-oil-small.png)](./liquids/oil.md).
+For example, Plastanium[![Plastanium](./images/item-plastanium-small.png)](./items/plastanium.md) burns slower than coal[![Coal](./images/item-coal-small.png)](./items/coal.md), which burns much slower than Pyratite[![Pyratite](./images/item-pyratite-small.png)](./items/pyratite.md). Furthermore, when Pyratite is used as ammo, it will burn enemies faster and stronger than Blast Compound[![Blast Compound](./images/item-blast-compound-small.png)](./items/blast-compound.md). When Slag[![Slag](./images/liquid-slag-small.png)](./liquids/slag.md) is used as an ammo in the Wave, it will burn enemies unlike Cryofluid[![Cryofluid](./images/liquid-cryofluid-small.png)](./liquids/cryofluid.md) or Oil[![Oil](./images/liquid-oil-small.png)](./liquids/oil.md).
 
 **Tip:** Make sure distribution blocks (Conveyors, Vaults, Bridges) that contain flammable or explosive materials are protected and kept away from potential damage, like a Reactor or enemy path. For example, if a Reactor explodes near a conveyor with Coal, the majority of the conveyor will immediately explode because of the Coal on it.
 
